@@ -6,5 +6,3 @@ create table member(
     age int not null
     primary key(id)
 );
-
-insert into member va
